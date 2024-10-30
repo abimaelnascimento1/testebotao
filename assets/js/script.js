@@ -1,3 +1,4 @@
 document.getElementById('btn').addEventListener('click', ()=>{
-    document.body.style.backgroundColor='blue'
-})
+    document.body.style.backgroundColor='blue';
+}
+)
